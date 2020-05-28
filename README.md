@@ -4,6 +4,6 @@ using iptables rules for redirect traffic to queues, the main function create ar
 add libraries to the linker
 pthread,netlink and libnetfilter_queue,
 
-make sure libnetfilter_queue installed in your system:
-#: yum install libnetfilter_queue
+make sure libnetfilter_queue installed in your system:<br />
+#: yum install libnetfilter_queue<br />
 #: yum install libnetfilter_queue-devel
